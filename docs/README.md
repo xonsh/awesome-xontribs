@@ -12,7 +12,8 @@ Awesome list of Xonsh contributions/extensions.
 - [Official Site](https://xon.sh/)
 - [GitHub Repository](https://github.com/xonsh/xonsh)
 - [Gitter Channel](https://gitter.im/xonsh/xonsh)
-- [Xontribs maintained in GitHub](https://github.com/topics/xontrib)
+- [Xontribs@GitHub](https://github.com/topics/xontrib)
+- [Xontrib Template](https://github.com/xonsh/xontrib-cookiecutter/)
 
 
 ## Core Xontribs
@@ -20,15 +21,25 @@ Awesome list of Xonsh contributions/extensions.
 *These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part of xonsh itself but need to be loaded explicitly using [`xontrib load`](https://xon.sh/tutorial_xontrib.html#loading-xontribs)*
 
 * [abbrevs](https://xon.sh/api/_autosummary/xontribs/xontrib.abbrevs.html#module-xontrib.abbrevs) - Fish like command abbreviations
+
 * [bashisms](https://xon.sh/api/_autosummary/xontribs/xontrib.bashisms.html#module-xontrib.bashisms) - Bash-like interface extensions for xonsh.
+
 * [coreutils](https://xon.sh/api/_autosummary/xontribs/xontrib.coreutils.html#module-xontrib.coreutils) - Additional core utilities that are implemented in xonsh.
+
 * [fish_completions](https://xon.sh/api/_autosummary/xontribs/xontrib.fish_completer.html#module-xontrib.fish_completer) - Populate rich completions using fish shell instead of bash
+
 * [free_cwd](https://xon.sh/api/_autosummary/xontribs/xontrib.free_cwd.html#module-xontrib.free_cwd) - This will release the lock on the current directory whenever the prompt is shown.
+
 * [pdb](https://xon.sh/api/_autosummary/xontribs/xontrib.pdb.html#module-xontrib.pdb) - Simple built-in debugger.
+
 * [prompt_ret_code](https://xon.sh/api/_autosummary/xontribs/xontrib.prompt_ret_code.html#module-xontrib.prompt_ret_code) - show return-code from last command in prompt
+
 * [whole_word_jumping](https://xon.sh/api/_autosummary/xontribs/xontrib.whole_word_jumping.html#module-xontrib.whole_word_jumping) - Jumping across whole words (non-whitespace) with Ctrl+Left/Right.
+
 * [xog](https://xon.sh/api/_autosummary/xontribs/xontrib.xog.html#module-xontrib.xog) - This adds xog - a simple command to establish and print temporary traceback log file.
-* Python virtual-environment management
+
+### Python virtual-environment management
+
   * [vox](https://xon.sh/api/_autosummary/xontribs/xontrib.vox.html#module-xontrib.vox) - Python virtual environment manager for xonsh.
   * [autovox](https://xon.sh/api/_autosummary/xontribs/xontrib.autovox.html#module-xontrib.autovox) - A framework for automatic vox.
 
@@ -133,9 +144,10 @@ Awesome list of Xonsh contributions/extensions.
 
 * [xpg](https://github.com/fengttt/xsh/tree/master/py) - Run/plot/explain sql query for PostgreSQL.
 
-* Python virtual-environment management
+### Python virtual-environment management
+
   * [avox](https://github.com/AstraLuma/xontrib-avox) - Policy for autovox based on project directories
-  
+
   * [avox_poetry](https://github.com/jnoortheen/xontrib-avox-poetry) - auto-activate venv as one cd into a poetry project folder. Activate ``.venv`` inside the project folder is also supported.
-  
+
     
