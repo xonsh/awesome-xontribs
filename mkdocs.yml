@@ -1,1 +1,35 @@
-site_name: My Docs
+site_name: Awesome Xontribs
+
+#site_url: https://awesome-python.com
+site_description: Awesome list of Xonsh contributions/extensions
+site_author: Noortheen Raja J
+repo_name: xonsh/awesome-xontribs
+repo_url: https://github.com/xonsh/awesome-xontribs
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - search.share
+
+extra_css:
+    - css/extra.css
+
+nav:
+  - README.md
+
+
+markdown_extensions:
+  - def_list
+  - md_in_html
+  - tables
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+
+plugins:
+  - search

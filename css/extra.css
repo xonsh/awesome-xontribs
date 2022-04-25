@@ -1,0 +1,6 @@
+/*more on https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/?h=palette*/
+:root {
+  --md-primary-fg-color:        #007bff;
+  --md-primary-fg-color--light: #f8f9fa;
+  --md-primary-fg-color--dark:  #343a40;
+}

@@ -1,0 +1,19 @@
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  default:
+    cmds:
+      - task: serve
+
+  link_readme:
+    cmds:
+      - ln -sf $(CURDIR)/README.md $(CURDIR)/docs/index.md
+
+  serve: poetry run mkdocs serve
+  build: poetry run mkdocs build
+  deploy: poetry mkdocs gh-deploy --clean

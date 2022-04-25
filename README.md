@@ -1,2 +1,1 @@
-# awesome-xontribs
-Awesome list of Xonsh contributions/extensions
+docs/README.md
