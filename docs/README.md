@@ -102,6 +102,7 @@ Awesome list of Xonsh contributions/extensions.
 * [mpl](https://github.com/xonsh/xontrib-mpl) - Matplotlib hooks for xonsh, including the new 'mpl' alias that displays the current figure on the screen.
 * [pyenv](https://github.com/dyuri/xontrib-pyenv) - pyenv integration for xonsh.
 * [homebrew](https://github.com/eugenesvk/xontrib-homebrew) - Add Homebrew's shell environment to xonsh shell on macOS/Linux
+* [init_ssh_agent](https://github.com/theRealBithive/xontrib-init-ssh-agent) - ssh-agent initialization
 * [ssh_agent](https://github.com/dyuri/xontrib-ssh-agent) - ssh-agent integration
 * [tcg](https://github.com/zasdfgbnm/tcg/tree/master/shells/xonsh) - tcg integration.
 * [xo](https://github.com/scopatz/xo) - Adds an 'xo' alias to run the exofrills text editor in the current Python interpreter session. This shaves off a bit of the startup time when running your favorite, minimal text editor.
