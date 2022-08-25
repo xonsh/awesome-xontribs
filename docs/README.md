@@ -41,6 +41,8 @@ Awesome list of Xonsh contributions/extensions.
 
 * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Argcomplete support to tab completion of python and xonsh scripts in xonsh.
 
+* [bash_completions_dirs](https://gitlab.com/taconi/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
+
 * [django](https://github.com/jnoortheen/xontrib-django) - Django management command completions for Xonsh shell
 
 * [docker_tabcomplete](https://github.com/xsteadfastx/xonsh-docker-tabcomplete) - Adds tabcomplete functionality to docker inside of xonsh.
