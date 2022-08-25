@@ -47,6 +47,8 @@ Awesome list of Xonsh contributions/extensions.
 
 * [jedi](https://github.com/xonsh/xontrib-jedi) - Use Jedi as xonsh's python completer.
 
+* [makefile_complete](https://gitlab.com/taconi/xontrib-makefile-complete) - Adds tabcomplete functionality to make inside of xonsh.
+
 * [scrapy_tabcomplete](https://github.com/Granitas/xonsh-scrapy-tabcomplete) - Adds tabcomplete functionality to scrapy inside of xonsh.
 
 ## Directory Navigation
