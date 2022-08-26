@@ -1,9 +1,6 @@
 # Awesome Xontribs
 
-> [Xonsh](https://xon.sh/) is a Python-powered, cross-platform, Unix-gazing shell language and command prompt. 
-> Xontributions, or xontribs, are a set of tools and conventions for extending the functionality of [xonsh](https://xon.sh/).
-
-Awesome list of Xonsh contributions/extensions. 
+Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.sh/tutorial_xontrib.html)). Xontribs are a set of tools and conventions for extending the functionality of xonsh beyond what is provided by default. This allows 3rd party developers and users to improve their xonsh experience without having to go through the xonsh development and release cycle.
 
 ## Core Xontribs
 
@@ -166,8 +163,8 @@ Awesome list of Xonsh contributions/extensions.
 
 ## Popular Links
 
-- [Official Site](https://xon.sh/)
-- [GitHub Repository](https://github.com/xonsh/xonsh)
-- [Gitter Channel](https://gitter.im/xonsh/xonsh)
-- [Xontribs@GitHub](https://github.com/topics/xontrib)
-- [Xontrib Template](https://github.com/xonsh/xontrib-cookiecutter/)
+- [Xontribs on GitHub](https://github.com/topics/xontrib)
+- [Xontrib Template](https://github.com/xonsh/xontrib-template) - make your own xontrib in 10 minutes by using supercharged template.
+- [Xonsh Official Site](https://xon.sh/)
+- [Xonsh GitHub Repository](https://github.com/xonsh/xonsh)
+- [Xonsh Gitter Channel](https://gitter.im/xonsh/xonsh)
