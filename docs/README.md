@@ -96,6 +96,13 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 * [dracula](https://github.com/agoose77/xontrib-dracula) - Dracula theme for xonsh.
 
 
+## Language extensions
+
+*Changes to the xonsh core language.*
+
+* [coconut](http://coconut-lang.org/) - Use language features from Coconut, a functional-programming-oriented strict superset of Python.
+
+
 ## Integrations
 
 * [distributed](https://github.com/xonsh/xontrib-distributed) - The [distributed](https://pypi.org/project/distributed/) parallel computing library hooks for xonsh.
