@@ -125,6 +125,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [xo](https://github.com/scopatz/xo) - Adds an 'xo' alias to run the exofrills text editor in the current Python interpreter session. This shaves off a bit of the startup time when running your favorite, minimal text editor.
 
+* [xxh](https://github.com/xxh/xxh) - Using xonsh wherever you go through the ssh.
+
 ## Plugins
 
 * [autoxsh](https://github.com/Granitas/xonsh-autoxsh) - Adds automatic execution of xonsh script files called ``.autoxsh`` when enterting a directory with ``cd`` function
