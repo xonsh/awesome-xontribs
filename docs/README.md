@@ -121,6 +121,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [ssh_agent](https://github.com/dyuri/xontrib-ssh-agent) - ssh-agent integration
 
+* [shadowenv](https://github.com/zscholl/xontrib-shadowenv) - [shadowenv](https://github.com/Shopify/shadowenv) integration
+
 * [tcg](https://github.com/zasdfgbnm/tcg/tree/master/shells/xonsh) - tcg integration.
 
 * [xo](https://github.com/scopatz/xo) - Adds an 'xo' alias to run the exofrills text editor in the current Python interpreter session. This shaves off a bit of the startup time when running your favorite, minimal text editor.
