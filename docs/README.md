@@ -113,7 +113,7 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [mpl](https://github.com/xonsh/xontrib-mpl) - Matplotlib hooks for xonsh, including the new 'mpl' alias that displays the current figure on the screen.
 
-* [pyenv](https://github.com/dyuri/xontrib-pyenv) - pyenv integration for xonsh.
+* [langenv](https://github.com/dyuri/xontrib-langenv) - pyenv/nodenv/goenv/rbenv integration for xonsh.
 
 * [homebrew](https://github.com/eugenesvk/xontrib-homebrew) - Add Homebrew's shell environment to xonsh shell on macOS/Linux
 
