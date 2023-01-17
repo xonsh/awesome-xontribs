@@ -62,6 +62,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [hist_navigator](https://github.com/jnoortheen/xontrib-hist-navigator) - fish like `nextd` and `prevd` with default keybindings.
 
+* [jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) - Jump to used before directory by part of the path. Lightweight zero-dependency implementation of autojump or zoxide projects functionality. 
+
 * [up](https://github.com/oh-my-xonsh/xontrib-up) - The fast way to go up directories.
 
 * [z](https://github.com/AstraLuma/xontrib-z) - Tracks your most used directories, based on 'frecency'.
