@@ -30,6 +30,11 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 * [autovox](https://xon.sh/api/_autosummary/xontribs/xontrib.autovox.html#module-xontrib.autovox) - A framework for automatic vox.
 
 
+## Education materials
+
+* [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet/) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users. 
+* [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome/) - Snippets of code for the xonsh [run control (RC) file](https://xon.sh/xonshrc.html#run-control-file). 
+
 ## Tab-completions
 
 *Extends auto-completion capabilities*
