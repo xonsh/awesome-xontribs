@@ -140,6 +140,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [autoxsh](https://github.com/Granitas/xonsh-autoxsh) - Adds automatic execution of xonsh script files called ``.autoxsh`` when enterting a directory with ``cd`` function
 
+* [clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard. Cross-platform.
+
 * [cmd_done](https://github.com/jnoortheen/xontrib-cmd-durations) - send notification once long-running command is finished. Adds `long_cmd_duration` field to $PROMPT_FIELDS.
 
 * [commands](https://github.com/jnoortheen/xontrib-commands) - Some useful commands/aliases to use with Xonsh shell
@@ -151,8 +153,6 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 * [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) - Adds some fzf widgets to your xonsh shell.
 
 * [gitinfo](https://github.com/dyuri/xontrib-gitinfo) - Displays git information on entering a repository folder. Uses ``onefetch`` if available.
-
-* [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that encrypt the xonsh shell commands history to prevent leaking sensitive data.
 
 * [histcpy](https://github.com/con-f-use/xontrib-histcpy) - Useful aliases and shortcuts for extracting links and textfrom command output history and putting them into the clipboard.
 
@@ -173,6 +173,10 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish in xonsh shell.
 
 * [xpg](https://github.com/fengttt/xsh/tree/master/py) - Run/plot/explain sql query for PostgreSQL.
+
+### History backends
+
+* [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that encrypt the xonsh shell commands history to prevent leaking sensitive data.
 
 ### Python virtual-environment management
 
