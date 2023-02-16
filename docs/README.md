@@ -2,32 +2,23 @@
 
 Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.sh/tutorial_xontrib.html)). Xontribs are a set of tools and conventions for extending the functionality of xonsh beyond what is provided by default. This allows 3rd party developers and users to improve their xonsh experience without having to go through the xonsh development and release cycle.
 
-## Core Xontribs
+## Core Xontrib
 
 *These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part of xonsh itself but need to be loaded explicitly using [`xontrib load`](https://xon.sh/tutorial_xontrib.html#loading-xontribs)*
 
-* [abbrevs](https://xon.sh/api/_autosummary/xontribs/xontrib.abbrevs.html#module-xontrib.abbrevs) - Fish like command abbreviations
-
-* [bashisms](https://xon.sh/api/_autosummary/xontribs/xontrib.bashisms.html#module-xontrib.bashisms) - Bash-like interface extensions for xonsh.
-
 * [coreutils](https://xon.sh/api/_autosummary/xontribs/xontrib.coreutils.html#module-xontrib.coreutils) - Additional core utilities that are implemented in xonsh.
-
-* [fish_completions](https://xon.sh/api/_autosummary/xontribs/xontrib.fish_completer.html#module-xontrib.fish_completer) - Populate rich completions using fish shell instead of bash
-
-* [free_cwd](https://xon.sh/api/_autosummary/xontribs/xontrib.free_cwd.html#module-xontrib.free_cwd) - This will release the lock on the current directory whenever the prompt is shown.
-
-* [pdb](https://xon.sh/api/_autosummary/xontribs/xontrib.pdb.html#module-xontrib.pdb) - Simple built-in debugger.
-
-* [prompt_ret_code](https://xon.sh/api/_autosummary/xontribs/xontrib.prompt_ret_code.html#module-xontrib.prompt_ret_code) - Show return-code from last command in prompt
-
-* [whole_word_jumping](https://xon.sh/api/_autosummary/xontribs/xontrib.whole_word_jumping.html#module-xontrib.whole_word_jumping) - Jumping across whole words (non-whitespace) with Ctrl+Left/Right.
-
-* [xog](https://xon.sh/api/_autosummary/xontribs/xontrib.xog.html#module-xontrib.xog) - This adds xog - a simple command to establish and print temporary traceback log file.
 
 ### Python virtual-environment management
 
-* [vox](https://xon.sh/api/_autosummary/xontribs/xontrib.vox.html#module-xontrib.vox) - Python virtual environment manager for xonsh.
-* [autovox](https://xon.sh/api/_autosummary/xontribs/xontrib.autovox.html#module-xontrib.autovox) - A framework for automatic vox.
+* [vox](https://github.com/xonsh/xontrib-vox) - Python virtual environment manager for xonsh.
+
+* [autovox](https://github.com/xonsh/xontrib-vox) - A framework for automatic vox.
+
+* [voxapi](https://github.com/xonsh/xontrib-vox) - API for vox.
+
+* [avox](https://github.com/AstraLuma/xontrib-avox) - Policy for autovox based on project directories.
+
+* [avox_poetry](https://github.com/jnoortheen/xontrib-avox-poetry) - auto-activate venv as one cd into a poetry project folder. Activate ``.venv`` inside the project folder is also supported.
 
 
 ## Education materials
@@ -39,6 +30,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 *Extends auto-completion capabilities*
 
+* [abbrevs](https://github.com/xonsh/xontrib-abbrevs) - Expands input words as you type in xonsh shell (fish-shell-like abbreviations).
+
 * [apt_tabcomplete](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete) - Adds tabcomplete functionality to apt-get/apt-cache inside of xonsh.
 
 * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Argcomplete support to tab completion of python and xonsh scripts in xonsh.
@@ -49,6 +42,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [docker_tabcomplete](https://github.com/xsteadfastx/xonsh-docker-tabcomplete) - Adds tabcomplete functionality to docker inside of xonsh.
 
+* [fish_completer](https://github.com/xonsh/xontrib-fish-completer) - Populate rich completions using fish shell instead of bash
+
 * [jedi](https://github.com/xonsh/xontrib-jedi) - Use Jedi as xonsh's python completer.
 
 * [makefile_complete](https://gitlab.com/taconi/xontrib-makefile-complete) - Adds tabcomplete functionality to make inside of xonsh.
@@ -57,13 +52,15 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 ## Directory Navigation
 
-* [autojump](https://github.com/wshanks/xontrib-autojump) - autojump support for xonsh
+* [autojump](https://github.com/wshanks/xontrib-autojump) - autojump support for xonsh.
 
 * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting the xonsh shell. For example, if you were in the '/work' directory when you last exited xonsh, then your next xonsh session will start in the '/work' directory, instead of your home directory.
 
-* [broot](https://github.com/jnoortheen/xontrib-broot) - supports broot with br alias
+* [broot](https://github.com/jnoortheen/xontrib-broot) - supports broot with br alias.
 
-* [cd](https://github.com/eugenesvk/xontrib-cd) - 'cd' to any path without escaping in xonsh shell ('cd '→'cd! ')
+* [cd](https://github.com/eugenesvk/xontrib-cd) - 'cd' to any path without escaping in xonsh shell ('cd '→'cd! ').
+
+* [free_cwd](https://github.com/xonsh/xontrib-free-cwd) - This will release the lock on the current directory whenever the prompt is shown.
 
 * [hist_navigator](https://github.com/jnoortheen/xontrib-hist-navigator) - fish like `nextd` and `prevd` with default keybindings.
 
@@ -92,6 +89,9 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [prompt_vi_mode](https://github.com/t184256/xontrib-prompt-vi-mode) - vi-mode status formatter for xonsh prompt
 
+### Prompt tweaks
+  
+* [whole_word_jumping](https://github.com/xonsh/xontrib-whole-word-jumping) - Jumping across whole words (non-whitespace) with Ctrl+Left/Right.
   
 
 ## Theming & Styling
@@ -111,6 +111,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 
 ## Integrations
+
+* [bashisms](https://xon.sh/api/_autosummary/xontribs/xontrib.bashisms.html#module-xontrib.bashisms) - Bash-like interface extensions for xonsh.
 
 * [distributed](https://github.com/xonsh/xontrib-distributed) - The [distributed](https://pypi.org/project/distributed/) parallel computing library hooks for xonsh.
 
@@ -178,11 +180,12 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that encrypt the xonsh shell commands history to prevent leaking sensitive data.
 
-### Python virtual-environment management
+### Debugging
 
-* [avox](https://github.com/AstraLuma/xontrib-avox) - Policy for autovox based on project directories
+* [xontrib-debug-tools](https://github.com/xonsh/xontrib-debug-tools) - Debug tools for xonsh shell:
 
-* [avox_poetry](https://github.com/jnoortheen/xontrib-avox-poetry) - auto-activate venv as one cd into a poetry project folder. Activate ``.venv`` inside the project folder is also supported.
+  * `xog` - This adds xog - a simple command to establish and print temporary traceback log file.
+  * `pdb` - Simple built-in debugger.
 
 
 ## Popular Links
