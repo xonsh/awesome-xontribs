@@ -152,6 +152,8 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) - Adds some fzf widgets to your xonsh shell.
 
+* [skim](https://github.com/eugenesvk/xontrib-skim) - Fuzzy-search (with skim) xonsh history of commands and their CWDs, zoxide cd history (CWD/dir support in-place navigation), files/dirs in the current directory, ssh hosts.
+
 * [gitinfo](https://github.com/dyuri/xontrib-gitinfo) - Displays git information on entering a repository folder. Uses ``onefetch`` if available.
 
 * [histcpy](https://github.com/con-f-use/xontrib-histcpy) - Useful aliases and shortcuts for extracting links and textfrom command output history and putting them into the clipboard.
