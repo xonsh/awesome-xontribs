@@ -114,7 +114,7 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 
 * [distributed](https://github.com/xonsh/xontrib-distributed) - The [distributed](https://pypi.org/project/distributed/) parallel computing library hooks for xonsh.
 
-* [jupyter](https://github.com/xonsh/xontrib-jupyter-shell) - Jupyter Notebook kernel for Xonsh
+* [jupyter](https://github.com/xonsh/xontrib-jupyter) - Jupyter Notebook kernel for Xonsh
 
 * [kitty](https://github.com/scopatz/xontrib-kitty) - Xonsh hooks for the Kitty terminal emulator.
 
