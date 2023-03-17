@@ -55,11 +55,11 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [bash_completions_dirs](https://gitlab.com/taconi/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
 
-- [django](https://github.com/jnoortheen/xontrib-django) - Django management command completions for Xonsh shell
+- [django](https://github.com/jnoortheen/xontrib-django) - Django management command completions for Xonsh shell.
 
 - [docker_tabcomplete](https://github.com/xsteadfastx/xonsh-docker-tabcomplete) - Adds tabcomplete functionality to docker inside of xonsh.
 
-- [fish_completer](https://github.com/xonsh/xontrib-fish-completer) - Populate rich completions using fish shell instead of bash
+- [fish_completer](https://github.com/xonsh/xontrib-fish-completer) - Populate rich completions using fish shell instead of bash.
 
 * [jedi](https://github.com/xonsh/xontrib-jedi) - Use Jedi as xonsh's python completer.
 
@@ -91,13 +91,13 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 ## Prompts
 
-- [powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell
+- [powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.
 
-- [powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline
+- [powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline.
 
 - [powerline3](https://github.com/jnoortheen/xontrib-powerline3) - Powerline theme with native $PROMPT_FIELDS support.
 
-- [powerline_binding](https://github.com/dyuri/xontrib-powerline-binding) - Uses powerline to render the xonsh prompt
+- [powerline_binding](https://github.com/dyuri/xontrib-powerline-binding) - Uses powerline to render the xonsh prompt.
 
 - [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - An elegance bar style for prompt.
 
@@ -111,9 +111,9 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 ## Theming & Styling
 
-- [base16_shell](https://github.com/ErickTucto/xontrib-base16-shell) - Change base16 shell themes
+- [base16_shell](https://github.com/ErickTucto/xontrib-base16-shell) - Change base16 shell themes.
 
-- [gruvbox](https://github.com/rpdelaney/xontrib-gruvbox) - A gruvbox color scheme for xonsh
+- [gruvbox](https://github.com/rpdelaney/xontrib-gruvbox) - A gruvbox color scheme for xonsh.
 
 - [dracula](https://github.com/agoose77/xontrib-dracula) - Dracula theme for xonsh.
 
@@ -129,7 +129,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 * [distributed](https://github.com/xonsh/xontrib-distributed) - The [distributed](https://pypi.org/project/distributed/) parallel computing library hooks for xonsh.
 
-- [jupyter](https://github.com/xonsh/xontrib-jupyter) - Jupyter Notebook kernel for Xonsh
+- [jupyter](https://github.com/xonsh/xontrib-jupyter) - Jupyter Notebook kernel for Xonsh.
 
 - [kitty](https://github.com/scopatz/xontrib-kitty) - Xonsh hooks for the Kitty terminal emulator.
 
@@ -137,13 +137,13 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [langenv](https://github.com/dyuri/xontrib-langenv) - pyenv/nodenv/goenv/rbenv integration for xonsh.
 
-- [homebrew](https://github.com/eugenesvk/xontrib-homebrew) - Add Homebrew's shell environment to xonsh shell on macOS/Linux
+- [homebrew](https://github.com/eugenesvk/xontrib-homebrew) - Add Homebrew's shell environment to xonsh shell on macOS/Linux.
 
-- [init_ssh_agent](https://github.com/theRealBithive/xontrib-init-ssh-agent) - ssh-agent initialization
+- [init_ssh_agent](https://github.com/theRealBithive/xontrib-init-ssh-agent) - ssh-agent initialization.
 
-- [ssh_agent](https://github.com/dyuri/xontrib-ssh-agent) - ssh-agent integration
+- [ssh_agent](https://github.com/dyuri/xontrib-ssh-agent) - ssh-agent integration.
 
-- [shadowenv](https://github.com/zscholl/xontrib-shadowenv) - [shadowenv](https://github.com/Shopify/shadowenv) integration
+- [shadowenv](https://github.com/zscholl/xontrib-shadowenv) - [shadowenv](https://github.com/Shopify/shadowenv) integration.
 
 - [tcg](https://github.com/zasdfgbnm/tcg/tree/master/shells/xonsh) - tcg integration.
 
@@ -153,13 +153,13 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 ## Plugins
 
-- [autoxsh](https://github.com/Granitas/xonsh-autoxsh) - Adds automatic execution of xonsh script files called `.autoxsh` when enterting a directory with `cd` function
+- [autoxsh](https://github.com/Granitas/xonsh-autoxsh) - Adds automatic execution of xonsh script files called `.autoxsh` when enterting a directory with `cd` function.
 
 - [clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard. Cross-platform.
 
 - [cmd_done](https://github.com/jnoortheen/xontrib-cmd-durations) - send notification once long-running command is finished. Adds `long_cmd_duration` field to $PROMPT_FIELDS.
 
-- [commands](https://github.com/jnoortheen/xontrib-commands) - Some useful commands/aliases to use with Xonsh shell
+- [commands](https://github.com/jnoortheen/xontrib-commands) - Some useful commands/aliases to use with Xonsh shell.
 
 - [default-command](https://github.com/oh-my-xonsh/xontrib-default-command) - Run a default command when you press return on an empty command line.
 
@@ -185,7 +185,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [readable-traceback](https://github.com/6syun9/xontrib-readable-traceback) - Make traceback easier to see for xonsh.
 
-- [schedule](https://github.com/AstraLuma/xontrib-schedule) - Xonsh Task Scheduling
+- [schedule](https://github.com/AstraLuma/xontrib-schedule) - Xonsh task scheduling.
 
 - [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish in xonsh shell.
 
