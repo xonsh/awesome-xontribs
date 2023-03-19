@@ -173,7 +173,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [histcpy](https://github.com/con-f-use/xontrib-histcpy) - Useful aliases and shortcuts for extracting links and textfrom command output history and putting them into the clipboard.
 
-- [macro_lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macros for the xonsh shell.
+- [macro](https://github.com/anki-code/xontrib-macro) - Library of the useful macros for the xonsh shell.
 
 - [onepath](https://github.com/anki-code/xontrib-onepath) - When you click to a file or folder in graphical OS they will be opened in associated app.The xontrib-onepath brings the same logic for the xonsh shell. Type the filename or pathwithout preceding command and an associated action will be executed. The actions are customizable.
 
