@@ -137,6 +137,8 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [langenv](https://github.com/dyuri/xontrib-langenv) - pyenv/nodenv/goenv/rbenv integration for xonsh.
 
+- [xonsh-prewarmed](https://github.com/anki-code/xonsh-prewarmed) - run interactive xonsh session in milliseconds using prewarmed GNU Screen session from the background. 
+
 - [homebrew](https://github.com/eugenesvk/xontrib-homebrew) - Add Homebrew's shell environment to xonsh shell on macOS/Linux.
 
 - [init_ssh_agent](https://github.com/theRealBithive/xontrib-init-ssh-agent) - ssh-agent initialization.
