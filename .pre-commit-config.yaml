@@ -5,11 +5,11 @@ ci:
 repos:
   - repo: https://codeberg.org/frnmst/md-toc
     # Remember to keep md-toc up-to-date!
-    rev: 8.1.9  # set a specific git tag
+    rev: 8.2.0  # set a specific git tag
     hooks:
       - id: md-toc
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.16  # Use the ref you want to point at
+    rev: 0.7.17  # Use the ref you want to point at
     hooks:
       - id: mdformat
         # Optionally add plugins
