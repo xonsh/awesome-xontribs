@@ -157,6 +157,8 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [autoxsh](https://github.com/Granitas/xonsh-autoxsh) - Adds automatic execution of xonsh script files called `.autoxsh` when enterting a directory with `cd` function.
 
+- [chatgpt](https://github.com/jpal91/xontrib-chatgpt) - Adds ability to communicate with OpenAI's ChatGPT directly from the command line.
+
 - [clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard. Cross-platform.
 
 - [cmd_done](https://github.com/jnoortheen/xontrib-cmd-durations) - send notification once long-running command is finished. Adds `long_cmd_duration` field to $PROMPT_FIELDS.
