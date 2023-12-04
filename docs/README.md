@@ -169,6 +169,8 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [direnv](https://github.com/74th/xonsh-direnv) - Supports direnv.
 
+- [brace-expansion](https://pypi.org/project/xontrib-brace-expansion/) - Implements simple brace expansion: `a{d,c,b}e` -> `ade ace abe`
+
 - [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) - Adds some fzf widgets to your xonsh shell.
 
 - [skim](https://github.com/eugenesvk/xontrib-skim) - Fuzzy-search (with skim) xonsh history of commands and their CWDs, zoxide cd history (CWD/dir support in-place navigation), files/dirs in the current directory, ssh hosts.
