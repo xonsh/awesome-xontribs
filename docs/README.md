@@ -34,9 +34,9 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [autovox](https://github.com/xonsh/xontrib-vox) - A framework for automatic vox.\* [voxapi](https://github.com/xonsh/xontrib-vox) - API for vox.
 
-* [avox](https://github.com/AstraLuma/xontrib-avox) - Policy for autovox based on project directories.
+- [avox](https://github.com/AstraLuma/xontrib-avox) - Policy for autovox based on project directories.
 
-* [avox_poetry](https://github.com/jnoortheen/xontrib-avox-poetry) - auto-activate venv as one cd into a poetry project folder. Activate `.venv` inside the project folder is also supported.
+- [avox_poetry](https://github.com/jnoortheen/xontrib-avox-poetry) - auto-activate venv as one cd into a poetry project folder. Activate `.venv` inside the project folder is also supported.
 
 ## Education materials
 
@@ -49,7 +49,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [abbrevs](https://github.com/xonsh/xontrib-abbrevs) - Expands input words as you type in xonsh shell (fish-shell-like abbreviations).
 
-* [apt_tabcomplete](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete) - Adds tabcomplete functionality to apt-get/apt-cache inside of xonsh.
+- [apt_tabcomplete](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete) - Adds tabcomplete functionality to apt-get/apt-cache inside of xonsh.
 
 - [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Argcomplete support to tab completion of python and xonsh scripts in xonsh.
 
@@ -61,7 +61,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [fish_completer](https://github.com/xonsh/xontrib-fish-completer) - Populate rich completions using fish shell instead of bash.
 
-* [jedi](https://github.com/xonsh/xontrib-jedi) - Use Jedi as xonsh's python completer.
+- [jedi](https://github.com/xonsh/xontrib-jedi) - Use Jedi as xonsh's python completer.
 
 - [makefile_complete](https://gitlab.com/taconi/xontrib-makefile-complete) - Adds tabcomplete functionality to make inside of xonsh.
 
@@ -77,7 +77,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [cd](https://github.com/eugenesvk/xontrib-cd) - 'cd' to any path without escaping in xonsh shell ('cd '→'cd! ').
 
-* [free_cwd](https://github.com/xonsh/xontrib-free-cwd) - This will release the lock on the current directory whenever the prompt is shown.
+- [free_cwd](https://github.com/xonsh/xontrib-free-cwd) - This will release the lock on the current directory whenever the prompt is shown.
 
 - [hist_navigator](https://github.com/jnoortheen/xontrib-hist-navigator) - fish like `nextd` and `prevd` with default keybindings.
 
@@ -127,7 +127,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [bashisms](https://xon.sh/api/_autosummary/xontribs/xontrib.bashisms.html#module-xontrib.bashisms) - Bash-like interface extensions for xonsh.
 
-* [distributed](https://github.com/xonsh/xontrib-distributed) - The [distributed](https://pypi.org/project/distributed/) parallel computing library hooks for xonsh.
+- [distributed](https://github.com/xonsh/xontrib-distributed) - The [distributed](https://pypi.org/project/distributed/) parallel computing library hooks for xonsh.
 
 - [jupyter](https://github.com/xonsh/xontrib-jupyter) - Jupyter Notebook kernel for Xonsh.
 
@@ -168,6 +168,8 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [default-command](https://github.com/oh-my-xonsh/xontrib-default-command) - Run a default command when you press return on an empty command line.
 
 - [direnv](https://github.com/74th/xonsh-direnv) - Supports direnv.
+
+- [brace-expansion](https://pypi.org/project/xontrib-brace-expansion/) - Implements simple brace expansion: `a{d,c,b}e` -> `ade ace abe`
 
 - [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) - Adds some fzf widgets to your xonsh shell.
 
