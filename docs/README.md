@@ -53,7 +53,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Argcomplete support to tab completion of python and xonsh scripts in xonsh.
 
-- [bash_completions_dirs](https://gitlab.com/taconi/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
+- [bash_completions_dirs](https://pypi.org/project/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
 
 - [django](https://github.com/jnoortheen/xontrib-django) - Django management command completions for Xonsh shell.
 
@@ -63,7 +63,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [jedi](https://github.com/xonsh/xontrib-jedi) - Use Jedi as xonsh's python completer.
 
-- [makefile_complete](https://gitlab.com/taconi/xontrib-makefile-complete) - Adds tabcomplete functionality to make inside of xonsh.
+- [makefile_complete](https://pypi.org/project/xontrib-makefile-complete) - Adds tabcomplete functionality to make inside of xonsh.
 
 - [scrapy_tabcomplete](https://github.com/Granitas/xonsh-scrapy-tabcomplete) - Adds tabcomplete functionality to scrapy inside of xonsh.
 
