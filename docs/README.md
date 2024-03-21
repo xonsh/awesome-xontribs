@@ -90,6 +90,8 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [zoxide](https://github.com/dyuri/xontrib-zoxide) - Zoxide integration for xonsh.
 
+- [dotdot](https://github.com/yggdr/xontrib-dotdot) - "...." -> "cd ../../..".
+
 ## Prompts
 
 - [powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.
