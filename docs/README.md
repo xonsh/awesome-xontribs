@@ -80,6 +80,8 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [free_cwd](https://github.com/xonsh/xontrib-free-cwd) - This will release the lock on the current directory whenever the prompt is shown.
 
+- [fstrider](https://github.com/anki-code/fstrider) - File system navigator for reducing keystrokes and doing thing intuitive. Alternative to cd-ls.
+
 - [hist_navigator](https://github.com/jnoortheen/xontrib-hist-navigator) - fish like `nextd` and `prevd` with default keybindings.
 
 - [jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) - Jump to used before directory by part of the path. Lightweight zero-dependency implementation of autojump or zoxide projects functionality.
