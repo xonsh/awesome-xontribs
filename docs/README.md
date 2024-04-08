@@ -5,9 +5,9 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 <!--TOC-->
 
 - [Awesome Xontribs](#awesome-xontribs)
+  - [Education materials](#education-materials)
   - [Core Xontrib](#core-xontrib)
   - [Python virtual-environment management](#python-virtual-environment-management)
-  - [Education materials](#education-materials)
   - [Tab-completions](#tab-completions)
   - [Directory Navigation](#directory-navigation)
   - [Prompts](#prompts)
@@ -21,6 +21,13 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
   - [Popular Links](#popular-links)
 
 <!--TOC-->
+
+## Education materials
+
+- [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet/) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
+- [xonsh-install](https://github.com/anki-code/xonsh-install) - Best way to install xonsh on macOS or Linux and using it as core shell. 
+- [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome/) - Snippets of code for the xonsh [run control (RC) file](https://xon.sh/xonshrc.html#run-control-file).
+- [xonsh-awesome-cli-app](https://github.com/anki-code/xonsh-awesome-cli-app) - Example of awesome cli app template for xonsh.
 
 ## Core Xontrib
 
@@ -37,12 +44,6 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [avox](https://github.com/AstraLuma/xontrib-avox) - Policy for autovox based on project directories.
 
 - [avox_poetry](https://github.com/jnoortheen/xontrib-avox-poetry) - auto-activate venv as one cd into a poetry project folder. Activate `.venv` inside the project folder is also supported.
-
-## Education materials
-
-- [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet/) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
-- [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome/) - Snippets of code for the xonsh [run control (RC) file](https://xon.sh/xonshrc.html#run-control-file).
-- [xonsh-awesome-cli-app](https://github.com/anki-code/xonsh-awesome-cli-app) - Example of awesome cli app template for xonsh.
 
 ## Tab-completions
 
