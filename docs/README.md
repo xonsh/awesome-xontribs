@@ -50,6 +50,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [apt_tabcomplete](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete) - Adds tabcomplete functionality to apt-get/apt-cache inside of xonsh.
 - [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Argcomplete support to tab completion of python and xonsh scripts in xonsh.
 - [bash_completions_dirs](https://pypi.org/project/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
+- [carapace-bin](https://github.com/carapace-sh/carapace-bin) - multi-shell multi-command argument completer with Xonsh support.
 - [django](https://github.com/jnoortheen/xontrib-django) - Django management command completions for Xonsh shell.
 - [docker_tabcomplete](https://github.com/xsteadfastx/xonsh-docker-tabcomplete) - Adds tabcomplete functionality to docker inside of xonsh.
 - [fish_completer](https://github.com/xonsh/xontrib-fish-completer) - Populate rich completions using fish shell instead of bash.
