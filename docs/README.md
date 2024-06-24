@@ -95,9 +95,10 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 ## Language extensions
 
-*Changes to the xonsh core language.*
+*Additions to the xonsh core language.*
 
 - [coconut](http://coconut-lang.org/) - Use language features from Coconut, a functional-programming-oriented strict superset of Python.
+- [spec-mod](https://github.com/anki-code/xontrib-spec-mod) - Library of xonsh subprocess specification modifiers e.g. `$(@json echo '{}')`.
 
 ## Integrations
 
