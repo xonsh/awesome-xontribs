@@ -75,8 +75,8 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 ## Prompts
 
-- [powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.
-- [powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline.
+- ~~[powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.~~
+- ~~[powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline.~~
 - [powerline3](https://github.com/jnoortheen/xontrib-powerline3) - Powerline theme with native $PROMPT_FIELDS support.
 - [powerline_binding](https://github.com/dyuri/xontrib-powerline-binding) - Uses powerline to render the xonsh prompt.
 - [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - An elegance bar style for prompt.
