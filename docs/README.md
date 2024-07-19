@@ -98,7 +98,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 *Additions to the xonsh core language.*
 
 - [coconut](http://coconut-lang.org/) - Use language features from Coconut, a functional-programming-oriented strict superset of Python.
-- [spec-mod](https://github.com/anki-code/xontrib-spec-mod) - Library of xonsh subprocess specification modifiers e.g. `$(@json echo '{}')`.
+- [dalias](https://github.com/anki-code/xontrib-dalias) - Library of decorator aliases (daliases) e.g. `j = $(@json echo '{}')`.
 
 ## Integrations
 
