@@ -25,7 +25,7 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
 ## Education materials
 
 - [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet/) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
-- [xonsh-install](https://github.com/anki-code/xonsh-install) - Best way to install xonsh on macOS or Linux and using it as core shell. 
+- [xonsh-install](https://github.com/anki-code/xonsh-install) - Best way to install xonsh on macOS or Linux and using it as core shell.
 - [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome/) - Snippets of code for the xonsh [run control (RC) file](https://xon.sh/xonshrc.html#run-control-file).
 - [xonsh-awesome-cli-app](https://github.com/anki-code/xonsh-awesome-cli-app) - Example of awesome cli app template for xonsh.
 
@@ -64,6 +64,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting the xonsh shell. For example, if you were in the '/work' directory when you last exited xonsh, then your next xonsh session will start in the '/work' directory, instead of your home directory.
 - [broot](https://github.com/jnoortheen/xontrib-broot) - supports broot with br alias.
 - [cd](https://github.com/eugenesvk/xontrib-cd) - 'cd' to any path without escaping in xonsh shell ('cd '→'cd! ').
+- [dir-picker](https://github.com/Beh01der/xontrib-dir-picker) - Binds a shortcut to `zoxide query -i` command for quick and easy navigation.
 - [free_cwd](https://github.com/xonsh/xontrib-free-cwd) - This will release the lock on the current directory whenever the prompt is shown.
 - [fstrider](https://github.com/anki-code/fstrider) - File system navigator for reducing keystrokes and doing thing intuitive. Alternative to cd-ls.
 - [hist_navigator](https://github.com/jnoortheen/xontrib-hist-navigator) - fish like `nextd` and `prevd` with default keybindings.
