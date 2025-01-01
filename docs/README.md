@@ -81,6 +81,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [powerline3](https://github.com/jnoortheen/xontrib-powerline3) - Powerline theme with native $PROMPT_FIELDS support.
 - [powerline_binding](https://github.com/dyuri/xontrib-powerline-binding) - Uses powerline to render the xonsh prompt.
 - [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - An elegance bar style for prompt.
+- [pygitstatus](https://github.com/Spitfire1900/xontrib-pygitstatus) - PyGit2 implementation of the builtin gitstatus PROMPT fields.
 - [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - [Starship prompt](https://github.com/starship/starship) in xonsh shell.
 - [prompt_vi_mode](https://github.com/t184256/xontrib-prompt-vi-mode) - vi-mode status formatter for xonsh prompt
 
