@@ -83,6 +83,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - An elegance bar style for prompt.
 - [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - [Starship prompt](https://github.com/starship/starship) in xonsh shell.
 - [prompt_vi_mode](https://github.com/t184256/xontrib-prompt-vi-mode) - vi-mode status formatter for xonsh prompt
+- [pygitstatus](https://github.com/Spitfire1900/xontrib-pygitstatus) - PyGit2 reimplementation of the builtin gitstatus PROMPT fields.
 
 ### Prompt tweaks
 
