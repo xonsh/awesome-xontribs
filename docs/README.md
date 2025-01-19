@@ -12,7 +12,7 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
   - [Directory Navigation](#directory-navigation)
   - [Prompts](#prompts)
     - [Prompt tweaks](#prompt-tweaks)
-  - [Theming & Styling](#theming--styling)
+  - [Theming \& Styling](#theming--styling)
   - [Language extensions](#language-extensions)
   - [Integrations](#integrations)
   - [Plugins](#plugins)
@@ -118,6 +118,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [tcg](https://github.com/zasdfgbnm/tcg/tree/master/shells/xonsh) - tcg integration.
 - [xo](https://github.com/scopatz/xo) - Adds an 'xo' alias to run the exofrills text editor in the current Python interpreter session. This shaves off a bit of the startup time when running your favorite, minimal text editor.
 - [xxh](https://github.com/xxh/xxh) - Using xonsh wherever you go through the ssh.
+- [1Password](https://github.com/drmikecrowe/xontrib-1password) - 1Password integration allowing secure storage of secrets.
 
 ## Plugins
 
