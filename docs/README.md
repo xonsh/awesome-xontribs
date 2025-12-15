@@ -148,6 +148,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 ### History backends
 
 - [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that encrypt the xonsh shell commands history to prevent leaking sensitive data.
+- [history_looseene](https://github.com/Hammer2900/xontrib-history-looseene) - Fast, compressed, inverted-index history backend using BM25.
 
 ### Debugging
 
