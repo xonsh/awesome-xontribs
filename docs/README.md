@@ -62,6 +62,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - [autojump](https://github.com/wshanks/xontrib-autojump) - autojump support for xonsh.
 - [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting the xonsh shell. For example, if you were in the '/work' directory when you last exited xonsh, then your next xonsh session will start in the '/work' directory, instead of your home directory.
+- [bluray](https://github.com/uninstall-your-browser/xontrib-bluray) - An interactive, xonsh-native path picker and directory changer
 - [broot](https://github.com/jnoortheen/xontrib-broot) - supports broot with br alias.
 - [cd](https://github.com/eugenesvk/xontrib-cd) - 'cd' to any path without escaping in xonsh shell ('cd '→'cd! ').
 - [dir-picker](https://github.com/Beh01der/xontrib-dir-picker) - Binds a shortcut to `zoxide query -i` command for quick and easy navigation.
