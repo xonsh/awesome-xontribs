@@ -19,6 +19,7 @@ Awesome list of [Xonsh](https://xon.sh/) contributions ([xontribs](https://xon.s
     - [History backends](#history-backends)
     - [Debugging](#debugging)
   - [Popular Links](#popular-links)
+  - [Archives](#archives)
 
 <!--TOC-->
 
@@ -49,7 +50,6 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [abbrevs](https://github.com/xonsh/xontrib-abbrevs) - Expands input words as you type in xonsh shell (fish-shell-like abbreviations).
 - [apt_tabcomplete](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete) - Adds tabcomplete functionality to apt-get/apt-cache inside of xonsh.
 - [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Argcomplete support to tab completion of python and xonsh scripts in xonsh.
-- [bash_completions_dirs](https://pypi.org/project/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
 - [carapace-bin](https://github.com/carapace-sh/carapace-bin) - multi-shell multi-command argument completer with Xonsh support.
 - [django](https://github.com/jnoortheen/xontrib-django) - Django management command completions for Xonsh shell.
 - [docker_tabcomplete](https://github.com/xsteadfastx/xonsh-docker-tabcomplete) - Adds tabcomplete functionality to docker inside of xonsh.
@@ -76,8 +76,6 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 ## Prompts
 
-- ~~[powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.~~
-- ~~[powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline.~~
 - [powerline3](https://github.com/jnoortheen/xontrib-powerline3) - Powerline theme with native $PROMPT_FIELDS support.
 - [powerline_binding](https://github.com/dyuri/xontrib-powerline-binding) - Uses powerline to render the xonsh prompt.
 - [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - An elegance bar style for prompt.
@@ -100,7 +98,6 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 *Additions to the xonsh core language.*
 
 - [coconut](http://coconut-lang.org/) - Use language features from Coconut, a functional-programming-oriented strict superset of Python.
-- [dalias](https://github.com/anki-code/xontrib-dalias) - Library of decorator aliases (daliases) e.g. `j = $(@json echo '{}')`.
 
 ## Integrations
 
@@ -130,7 +127,6 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [default-command](https://github.com/oh-my-xonsh/xontrib-default-command) - Run a default command when you press return on an empty command line.
 - [direnv](https://github.com/74th/xonsh-direnv) - Supports direnv.
 - [brace-expansion](https://pypi.org/project/xontrib-brace-expansion/) - Implements simple brace expansion: `a{d,c,b}e` -> `ade ace abe`
-- [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) (ARCHIVED) - Adds some fzf widgets to your xonsh shell.
 - [fzf-completions](https://github.com/doronz88/xontrib-fzf-completions) - The new version of fzf support in xonsh (the updated version of the archived `fzf-widgets`).
 - [skim](https://github.com/eugenesvk/xontrib-skim) - Fuzzy-search (with skim) xonsh history of commands and their CWDs, zoxide cd history (CWD/dir support in-place navigation), files/dirs in the current directory, ssh hosts.
 - [gitinfo](https://github.com/dyuri/xontrib-gitinfo) - Displays git information on entering a repository folder. Uses `onefetch` if available.
@@ -164,3 +160,11 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [Xonsh Official Site](https://xon.sh/)
 - [Xonsh GitHub Repository](https://github.com/xonsh/xonsh)
 - [Xonsh Gitter Channel](https://gitter.im/xonsh/xonsh)
+ 
+## Archives
+
+- Now built-in - [bash_completions_dirs](https://pypi.org/project/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
+- Now built-in - [dalias](https://github.com/anki-code/xontrib-dalias) - Library of decorator aliases (daliases) e.g. `j = $(@json echo '{}')`.
+- Superseded by fzf-completions - [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) - Adds some fzf widgets to your xonsh shell.
+- Superseded by powerline3/powerline_binding - [powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.
+- Superseded by powerline3/powerline_binding - [powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline.
