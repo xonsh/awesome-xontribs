@@ -67,7 +67,6 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [dir-picker](https://github.com/Beh01der/xontrib-dir-picker) - Binds a shortcut to `zoxide query -i` command for quick and easy navigation.
 - [dotdot](https://github.com/yggdr/xontrib-dotdot) - "...." -> "cd ../../..".
 - [free_cwd](https://github.com/xonsh/xontrib-free-cwd) - This will release the lock on the current directory whenever the prompt is shown.
-- [fstrider](https://github.com/anki-code/fstrider) - File system navigator for reducing keystrokes and doing thing intuitive. Alternative to cd-ls.
 - [hist_navigator](https://github.com/jnoortheen/xontrib-hist-navigator) - fish like `nextd` and `prevd` with default keybindings.
 - [jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) - Jump to used before directory by part of the path. Lightweight zero-dependency implementation of autojump or zoxide projects functionality.
 - [take](https://github.com/nahoj/xontrib-take) - A command to create a dir, clone a repo, or download an archive, then `cd` into it, in one go. Also a good showcase of mixing Python and shell commands in Xonsh.
@@ -166,6 +165,7 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - Now built-in - [bash_completions_dirs](https://pypi.org/project/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
 - Now built-in - [dalias](https://github.com/anki-code/xontrib-dalias) - Library of decorator aliases (daliases) e.g. `j = $(@json echo '{}')`.
+- Superseded by ranger - [fstrider](https://github.com/anki-code/fstrider#-archived) - File system navigator for reducing keystrokes and doing thing intuitive. Alternative to cd-ls.
 - Superseded by fzf-completions - [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) - Adds some fzf widgets to your xonsh shell.
 - Superseded by powerline3/powerline_binding - [powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.
 - Superseded by powerline3/powerline_binding - [powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline.
