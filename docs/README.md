@@ -165,7 +165,6 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 
 - Now built-in - [bash_completions_dirs](https://pypi.org/project/xontrib-bash-completions-dirs) - Autocomplete loading from directories for the xonsh.
 - Now built-in - [dalias](https://github.com/anki-code/xontrib-dalias) - Library of decorator aliases (daliases) e.g. `j = $(@json echo '{}')`.
-- Superseded by [ranger](https://github.com/ranger/ranger) - [fstrider](https://github.com/anki-code/fstrider#-archived) - File system navigator for reducing keystrokes and doing thing intuitive. Alternative to cd-ls.
 - Superseded by fzf-completions - [fzf-widgets](https://github.com/laloch/xontrib-fzf-widgets) - Adds some fzf widgets to your xonsh shell.
 - Superseded by powerline3/powerline_binding - [powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell.
 - Superseded by powerline3/powerline_binding - [powerline2](https://github.com/vaaaaanquish/xontrib-powerline2) - Powerline for Xonsh shell forked from santagada/xontrib-powerline.
