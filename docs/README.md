@@ -65,14 +65,14 @@ These [modules](https://xon.sh/api/_autosummary/xontribs/xontrib.html) are part 
 - [broot](https://github.com/jnoortheen/xontrib-broot) - supports broot with br alias.
 - [cd](https://github.com/eugenesvk/xontrib-cd) - 'cd' to any path without escaping in xonsh shell ('cd '→'cd! ').
 - [dir-picker](https://github.com/Beh01der/xontrib-dir-picker) - Binds a shortcut to `zoxide query -i` command for quick and easy navigation.
+- [dotdot](https://github.com/yggdr/xontrib-dotdot) - "...." -> "cd ../../..".
 - [free_cwd](https://github.com/xonsh/xontrib-free-cwd) - This will release the lock on the current directory whenever the prompt is shown.
-- [fstrider](https://github.com/anki-code/fstrider) - File system navigator for reducing keystrokes and doing thing intuitive. Alternative to cd-ls.
 - [hist_navigator](https://github.com/jnoortheen/xontrib-hist-navigator) - fish like `nextd` and `prevd` with default keybindings.
 - [jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) - Jump to used before directory by part of the path. Lightweight zero-dependency implementation of autojump or zoxide projects functionality.
+- [take](https://github.com/nahoj/xontrib-take) - A command to create a dir, clone a repo, or download an archive, then `cd` into it, in one go. Also a good showcase of mixing Python and shell commands in Xonsh.
 - [up](https://github.com/oh-my-xonsh/xontrib-up) - The fast way to go up directories.
 - [z](https://github.com/AstraLuma/xontrib-z) - Tracks your most used directories, based on 'frecency'.
 - [zoxide](https://github.com/dyuri/xontrib-zoxide) - Zoxide integration for xonsh.
-- [dotdot](https://github.com/yggdr/xontrib-dotdot) - "...." -> "cd ../../..".
 
 ## Prompts
 
